@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,gateway.52hello.com,IP
 DOMAIN-SUFFIX,support.xingqiu520.com,IP
 DOMAIN-SUFFIX,seeting.xingqiu520.com,IP
 DOMAIN-SUFFIX,ip138.com,IP
+IP-CIDR,10.88.127.171/32,IP
