@@ -1,16 +1,6 @@
-# NAME: hello
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-03-31 02:13:21
-# HOST: 2
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 22
-# IP-ASN: 1
-# IP-CIDR: 2
-# TOTAL: 28
-HOST,support-jison.xingqiu520.com,OpenAI
-HOST,support-jison.ppx520.com,OpenAI
-HOST-SUFFIX,gateway.52hello.com,OpenAI
-HOST-SUFFIX,support.xingqiu520.com,OpenAI
-HOST-SUFFIX,seeting.xingqiu520.com,OpenAI
-HOST-SUFFIX,ip138.com,OpenAI
+DOMAIN,support-jison.xingqiu520.com,IP
+DOMAIN,support-jison.ppx520.com,IP
+DOMAIN-SUFFIX,gateway.52hello.com,IP
+DOMAIN-SUFFIX,support.xingqiu520.com,IP
+DOMAIN-SUFFIX,seeting.xingqiu520.com,IP
+DOMAIN-SUFFIX,ip138.com,IP
