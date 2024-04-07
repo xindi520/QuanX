@@ -1,7 +1,13 @@
 DOMAIN,support-jison.xingqiu520.com,IP
 DOMAIN,support-jison.ppx520.com,IP
-DOMAIN-SUFFIX,gateway.52hello.com,IP
-DOMAIN-SUFFIX,support.xingqiu520.com,IP
-DOMAIN-SUFFIX,seeting.xingqiu520.com,IP
-DOMAIN-SUFFIX,ip138.com,IP
+DOMAIN,gateway.52hello.com,IP
+DOMAIN,support.xingqiu520.com,IP
+DOMAIN,seeting.xingqiu520.com,IP
+DOMAIN,front-perf.520hello.com,IP
+DOMAIN,h5-static.520hello.com,IP
+DOMAIN,ad.520hello.com,IP
+DOMAIN,api.520hello.com,IP
+DOMAIN,hello.520hello.com,IP
+DOMAIN,hellosupport.520hello.com,IP
+DOMAIN,ip138.com,IP
 IP-CIDR,14.215.31.245/32,IP
