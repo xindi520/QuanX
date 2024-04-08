@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,hello.520hello.com,IP
 DOMAIN-SUFFIX,hellosupport.520hello.com,IP
 DOMAIN-SUFFIX,helloktv-esx.520hello.com,IP
 DOMAIN-SUFFIX,helloktv-esx.xingqiu520.com,IP
-HOST-SUFFIX,helloktv-groupchat.top,IP
+HOST-KEYWORD,helloktv-groupchat.top,IP
 DOMAIN,helloktv-esx.ppx520.com,IP
 DOMAIN,hellostats.520hello.com,IP
 DOMAIN-SUFFIX,hkhmmoblbs.520hello.com,IP
